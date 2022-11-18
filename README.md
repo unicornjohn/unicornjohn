@@ -7,10 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unicornjohn" alt="unicornjohn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/souradeep_2003_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/souradeep_2003_?logo=twitter&style=for-the-badge" alt="https://twitter.com/souradeep_2003_" /></a> </p>
+
 
 - 🔭 I’m currently working on **A Personal Portfolio Website**
+- 👋 Hi, I’m @unicornjohn
+- 👀 I’m interested in Web Development	
+- 🌱 I’m currently learning Frontend Development
+- 💞 I’m looking to collaborate on Open Source Contribution
+- 📫 How to reach me ...
+- iamsouradeep99@gmail.com
 
+<h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
