@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Souradeep Ghosh</h1>
 <h3 align="center">A Beginner Level Fronted Web Developer</h3>
 <img algin="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
@@ -11,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/souradeep_2003_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/souradeep_2003_" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100069240877819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069240877819" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/undesired_unicorn_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/undesired_unicorn_19/" height="30" width="40" /></a>
