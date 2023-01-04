@@ -1,7 +1,7 @@
  ![MasterHead](http://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-effect-with-code-rain-animation-photoshop-tutorial.gif)
 [![@unicornjohn's Holopin board](https://holopin.me/unicornjohn)](https://holopin.io/@unicornjohn)
 <h1 align="center">Hi 👋, I'm Souradeep </h1>
-<h3 align="center">A Beginner Level Fronted Web Developer</h3>
+<h3 align="center">A Beginner Level Front-End Web Developer using MERN Stack</h3>
 <img algin="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unicornjohn&label=Profile%20views&color=0e75b6&style=flat" alt="unicornjohn" /> </p>
 
