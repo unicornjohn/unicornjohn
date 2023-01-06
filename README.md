@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on **A Personal Portfolio Website**
 - 👋 Hi, I’m @unicornjohn
-- 👀 I’m interested in Web Development	
-- 🌱 I’m currently learning Frontend Development
+- 👀 I’m interested in FullStack Web Development	
+- 🌱 I’m currently learning Web Development using Mern Stack
 - 💞 I’m looking to collaborate on Open Source Contribution
 - 📫 How to reach me ...
 - iamsouradeep99@gmail.com
