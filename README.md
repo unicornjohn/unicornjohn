@@ -1,4 +1,4 @@
- ![MasterHead](http://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-effect-with-code-rain-animation-photoshop-tutorial.gif)
+ ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif)
 [![@unicornjohn's Holopin board](https://holopin.me/unicornjohn)](https://holopin.io/@unicornjohn)
 <h1 align="center">Hi 👋, I'm Souradeep </h1>
 <h3 align="center">A Beginner Level Front-End Web Developer using MERN Stack</h3>
